@@ -1,0 +1,4 @@
+# Applied by tests via @ActiveProfiles("test"). The datasource is injected by Testcontainers.
+spring:
+  flyway:
+    clean-disabled: true
